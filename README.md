@@ -12,7 +12,7 @@ This repository is designed to be a central, version-controlled library for all 
 
 This repository is organized into several key categories.
 
-### Articles: The "Science Behind the Box"
+### Articles
 This section will contain in-depth articles that explain the core scientific principles our toolkit is built on.
 
 [**Browse Articles**](./articles)
