@@ -1,6 +1,6 @@
-# Open Bio Toolkit - Resource Repository
+# AccessLabs - Resource Repository
 
-This is the official content repository for the Open Bio Toolkit Support Hub. It contains all open-access documentation, non-protocol guides, hardware files, and resources for the "biomanufacturing in a box" toolkit.
+This is the official content repository for the AccessLabs Support Hub. It contains all open-access documentation, non-protocol guides, hardware files, and resources for the "biomanufacturing in a box" toolkit.
 
 ---
 
