@@ -1,44 +1,79 @@
-# AccessLabs - Resource Repository
+# AccessLabs – Resource Repository
 
-This is the official content repository for the AccessLabs Support Hub. It contains all open-access documentation, non-protocol guides, hardware files, and resources for the "biomanufacturing in a box" toolkit.
+> This is the official content repository for the AccessLabs Support Hub. It contains all open-access documentation, non-protocol guides, hardware files, and resources for the “biomanufacturing in a box” toolkit.
 
 ---
 
-## 👋 Welcome & Purpose
+## 👋 About the Project & Our Ecosystem
 
-This repository is designed to be a central, version-controlled library for all educational and technical materials that support our toolkit users. Our goal is to maintain a high-quality, community-vetted set of resources that are free and open for everyone to use, adapt, and improve.
+AccessLabs is an initiative of the University of Cambridge’s Open Bioeconomy Lab. Our mission is to democratize biotechnology by developing and validating a **“biomanufacturing in a box”**—a complete, low-cost, open-source toolkit designed to overcome global supply-chain challenges for biological reagents.
+
+This repository is the central library for our educational and technical materials. While this repo contains our core documentation and hardware files, it’s just one part of our support ecosystem. For other resources, please visit:
+
+- **Our Main Website:** [Your AccessLabs Website URL Here](https://your-accesslabs-website.example.com)
+
+---
 
 ## 📖 Content Sections
 
-This repository is organized into several key categories.
+This repository is organized into several key categories:
 
-### Articles
-This section will contain in-depth articles that explain the core scientific principles our toolkit is built on.
+### 1. Articles: The “Science Behind the Box”
 
-[**Browse Articles**](./articles)
+In-depth articles explaining the core scientific principles our toolkit is built on.
 
-### Guides
-Find practical guides for equipment maintenance, lab safety, and other best practices.
+- [Browse Articles](#)
 
-[**Browse Guides**](./guides)
+---
 
-### Open-Source Hardware
-Download the `.stl` or `.cad` files for all 3D-printable components of the kit. This allows you to print your own replacements or modify the designs for your specific needs.
+### 2. Guides
 
-[**Browse Hardware Files**](./hardware)
+Practical guides for equipment maintenance, lab safety, and other best practices.
 
-### Glossary
-A comprehensive A-Z list of definitions for key scientific and technical terms used in our protocols and guides.
+- [Browse Guides](#)
 
-[**View Glossary**](./glossary.md)
+---
 
-### Bill of Materials (BOM)
-A detailed list of every component included in the "biomanufacturing in a box" kit, along with suggestions for sourcing common consumables.
+### 3. Open-Source Hardware
 
-[**View Bill of Materials**](./bill-of-materials.md)
+Download the `.stl` or `.cad` files for all 3D-printable components of the kit. Print your own replacements or modify the designs.
+
+- [Browse Hardware Files](#)
+
+---
+
+### 4. Glossary
+
+A comprehensive A–Z list of definitions for key scientific and technical terms used in our protocols and guides.
+
+- [View Glossary](#)
+
+---
+
+### 5. Bill of Materials (BOM)
+
+A detailed list of every component included in the “biomanufacturing in a box” kit, along with suggestions for sourcing common consumables.
+
+- [View Bill of Materials](#)
 
 ---
 
 ## 🤝 How to Contribute
 
-This is an open project, and we welcome contributions from the community! If you have a suggestion, find an error, or want to add a new guide, please feel free to open an issue or submit a pull request on this repository.
+This is an open project, and we welcome contributions from the community! Here are the ways you can help:
+
+1. **Reporting Issues**  
+   Found a typo, broken link, or an error in a guide?  
+   - Open an issue in this repository for bug reports and simple suggestions.
+
+2. **Suggesting New Content**  
+   Have an idea for a new guide or in-depth article?  
+   - Open an issue and label it as a **content suggestion** to start a discussion.
+
+3. **Making Direct Contributions**  
+   Want to add or edit content yourself? Follow the standard GitHub workflow:  
+   1. Fork this repository to your own GitHub account.  
+   2. Make your changes in your fork.  
+   3. Submit a Pull Request back to this main repository for review and merging.
+
+> We appreciate all contributions, from simple typo fixes to new in-depth articles! 🌱
