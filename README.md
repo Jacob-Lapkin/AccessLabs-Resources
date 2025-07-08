@@ -10,7 +10,8 @@ AccessLabs is an initiative of the University of Cambridge’s Open Bioeconomy L
 
 This repository is the central library for our educational and technical materials. While this repo contains our core documentation and hardware files, it’s just one part of our support ecosystem. For other resources, please visit:
 
-- **Our Main Website:** [Your AccessLabs Website URL Here]([https://your-accesslabs-website.example.com](https://accesslabs.netlify.app/))
+- **AccessLabs Website:** [AccessLabs](https://accesslabs.netlify.app/)
+
 
 ---
 
