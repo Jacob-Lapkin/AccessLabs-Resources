@@ -19,7 +19,7 @@ This repository is the central library for our educational and technical materia
 
 This repository is organized into several key categories:
 
-### 1. Articles: The “Science Behind the Box”
+### 1. Articles:
 
 In-depth articles explaining the core scientific principles our toolkit is built on.
 
@@ -29,7 +29,7 @@ In-depth articles explaining the core scientific principles our toolkit is built
 
 ### 2. Guides
 
-Practical guides for equipment maintenance, lab safety, and other best practices.
+Practical guides for equipment maintenance, lab safety, best practices, and troubleshooting tips.
 
 - [Browse Guides](#)
 
