@@ -14,7 +14,7 @@ There are many ways to contribute, and all are valuable.
 
 ### Reporting Bugs & Issues
 
-If you find a typo, a broken link, an error in a guide, or any other issue, please [open an issue](https://github.com/your-repo/accesslabs-resources/issues) in this repository.
+If you find a typo, a broken link, an error in a guide, or any other issue, please [open an issue](https://github.com/Jacob-Lapkin/AccessLabs-Resources/issues) in this repository.
 
 When filing an issue, please provide a clear title and a detailed description of the problem. Include as much relevant information as possible, such as:
 
@@ -26,8 +26,8 @@ When filing an issue, please provide a clear title and a detailed description of
 
 Do you have an idea for a new guide, a scientific primer, or a useful addition to the glossary? We'd love to hear it\!
 
-1.  **Check if the idea already exists:** Search the existing [issues](https://github.com/your-repo/accesslabs-resources/issues) to see if someone has already suggested your idea.
-2.  **Create a new issue:** If your idea is new, please [open an issue](https://github.com/your-repo/accesslabs-resources/issues) and provide a clear description of your suggestion. Label it as a "content suggestion" or "enhancement."
+1.  **Check if the idea already exists:** Search the existing [issues](https://github.com/Jacob-Lapkin/AccessLabs-Resources/issues) to see if someone has already suggested your idea.
+2.  **Create a new issue:** If your idea is new, please [open an issue](https://github.com/Jacob-Lapkin/AccessLabs-Resources/issues) and provide a clear description of your suggestion. Label it as a "content suggestion" or "enhancement."
 
 ### Submitting Changes via Pull Requests
 
