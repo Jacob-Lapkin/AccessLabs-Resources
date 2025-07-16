@@ -39,7 +39,7 @@ Practical guides for equipment maintenance, lab safety, best practices, and trou
 
 Download the `.stl` or `.cad` files for all 3D-printable components of the kit. Print your own replacements or modify the designs.
 
-- [Browse Hardware Files](#)
+- [Browse Hardware Files](hardware/)
 
 ---
 
