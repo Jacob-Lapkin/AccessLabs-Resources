@@ -31,7 +31,7 @@ In-depth articles explaining the core scientific principles our toolkit is built
 
 Practical guides for equipment maintenance, lab safety, best practices, and troubleshooting tips.
 
-- [Browse Guides](#)
+- [Browse Guides](guides/)
 
 ---
 
