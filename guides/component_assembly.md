@@ -1,1 +1,0 @@
-guides/component_assembly.md
