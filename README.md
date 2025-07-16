@@ -55,7 +55,7 @@ A comprehensive A–Z list of definitions for key scientific and technical terms
 
 A detailed list of every component included in the “biomanufacturing in a box” kit, along with suggestions for sourcing common consumables.
 
-- [View Bill of Materials](#)
+- [View Bill of Materials](bom/)
 
 ---
 
